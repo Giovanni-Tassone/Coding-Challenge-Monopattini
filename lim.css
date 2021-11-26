@@ -1,0 +1,85 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.7);
+  width: 63%;
+  height: 950px;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 20px;
+}
+
+.logo{
+  margin: auto;
+  width: 18%;
+  display: block;
+  margin-top: 20px;
+  padding-top: 140px;
+}
+
+.titolo{
+  text-align: center;
+  color: #00de03;
+  margin-top: 1px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+
+nav{
+  background-color: #00de03;
+  width: 80%;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+main{
+  width: 82%;
+  margin: auto;
+}
+
+.info{
+  display: inline-block;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  margin-bottom: 1px;
+  margin-top: 30px;
+}
+
+span{
+  display: block;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+}
+
+.carica-gialla{
+  background-color: #f5b453;
+  width: 360px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.carica-verde{
+  background-color: #1ec31e;
+  width: 60%;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.carica-rossa{
+  background-color: #be4141;
+  width: 12%;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.last{
+  padding-bottom: 80px;
+}
